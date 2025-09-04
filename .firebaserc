@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "vp-production",
+    "prod": "vp-production"
+  },
+  "targets": {},
+  "etags": {}
+}
